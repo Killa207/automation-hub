@@ -1,40 +1,26 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct for the Poseidon Hub Project
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Community Guidelines
+We are committed to providing a welcoming and inclusive environment for all members of the Poseidon Hub community. We encourage open communication and collaboration among all contributors and users. 
 
-## Our Standards
-Examples of behavior that contributes to creating a positive environment include:
+## Expected Behavior
+- Treat all community members with respect and kindness.
+- Engage in constructive criticism and avoid personal attacks.
+- Be open to feedback and different perspectives.
+- Use inclusive language and practice empathy in communications.
+- Respect differing opinions and work towards consensus.
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+## Unacceptable Behavior
+- Any form of harassment or discrimination.
+- Intimidation, stalking, or unwelcome attention.
+- Offensive comments related to gender, sexual orientation, disability, or other personal characteristics.
 
-Examples of unacceptable behavior by participants include:
+## Enforcement Mechanisms
+If you experience or witness unacceptable behavior, please report it to the project maintainers by contacting them through the designated communication channels. All reports will be reviewed and investigated promptly. 
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+## Contact Information
+For any questions or to report issues, please contact:
+- **Email**: support@poseidonhub.com
+- **Discord**: Poseidon Hub Support Channel
 
-## Our Responsibilities
-Project leaders are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to unacceptable behavior.
-
-Project leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
-
-## Scope
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
-
-## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [insert contact info]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
-
-Project leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
-
-## Acknowledgement
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0.
-
-## Changes to This Code of Conduct
-We will review this Code of Conduct regularly and may amend it as necessary. Changes will be communicated to the community in a transparent manner.
+Thank you for helping us create a welcoming environment for everyone involved in the Poseidon Hub project!
