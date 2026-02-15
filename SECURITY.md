@@ -1,23 +1,23 @@
-# Security Guidelines
+# Security Policy
 
-## Vulnerability Reporting
-If you discover a security vulnerability, please report it to us as soon as possible. You can do this by sending an email to [security@poseidonhub.com](mailto:security@poseidonhub.com). Please provide as much detail as possible, including steps to reproduce the issue.
+## Security Policy for Poseidon Hub
+
+This document outlines the security policies related to the Poseidon Hub project.
+
+## Vulnerability Disclosure Procedures
+1. If you discover a vulnerability in our system, please report it confidentially to us.
+2. Do not publicly disclose the details of the vulnerability until it has been addressed.
+3. We aim to respond to reports within 48 hours and will provide updates on our progress.
+4. Please send your reports to security@poseidonhub.org.
 
 ## Best Practices for Handling Full Device Permissions
+- Limit the use of full device permissions to only those necessary for core functionalities.
+- Always inform users why such permissions are required.
+- Provide options for users to disable features that require full device permissions when possible.
+- Regularly review the permissions your application requests and ensure they align with the current features.
 
-1. **Limit Permissions**: Always request only the permissions necessary for your application to function. Avoid requesting full device permissions unless absolutely required.
-   
-2. **User Transparency**: Clearly inform users why certain permissions are needed and how they will enhance their experience.
-   
-3. **Regular Audits**: Regularly review and audit the permissions your application requests to ensure they remain relevant and necessary.
-   
-4. **Use Proven Libraries**: Leverage established libraries and frameworks when dealing with sensitive permissions, such as location and contacts.
+## Contact Information for Security Issues
+For security-related inquiries or discussions, please contact us at:
+- Email: security@poseidonhub.org
 
-5. **User Control**: Provide users the ability to revoke permissions easily within the application settings.
-   
-6. **Security Updates**: Keep your application updated with the latest security patches and use secure coding practices to protect against vulnerabilities.
-   
-7. **Testing**: Conduct regular security testing, including code reviews and vulnerability assessments, to identify and mitigate potential security risks.
-
-## Conclusion
-Following these guidelines will help us maintain a safe and secure application for our users. Thank you for your commitment to security!
+Thank you for helping us maintain the security of Poseidon Hub!
