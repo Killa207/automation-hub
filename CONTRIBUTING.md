@@ -1,41 +1,31 @@
-# Contributing to Poseidon Hub
+# Contribution Guidelines for Poseidon Hub Development
 
-Thank you for considering contributing to the Poseidon Hub all-in-one device automation platform! We welcome contributions from everyone, and we appreciate your efforts to improve our project. Please read through the guidelines below to understand how you can contribute.
+Thank you for your interest in contributing to the Poseidon Hub! We appreciate your help in improving the project. Please follow these guidelines to ensure that your contribution is effective and meets our standards.
 
-## Contribution Guidelines
+## Coding Standards
+1. **Language Specifications:**  Ensure that your code complies with the standards of the programming language being used, such as Python PEP 8, JavaScript ESLint, etc.
+2. **Code Quality:** Use meaningful variable and function names. Aim for clear and concise code with appropriate comments where necessary.
+3. **Testing:** Add unit tests for your new features and ensure that all existing tests pass before submitting a pull request.
 
-1. **Fork the Repository**: Create a personal copy of the repository by forking it.
-2. **Create a Branch**: Develop your feature or fix in a new branch. Use a descriptive name for the branch (e.g., `feature-new-feature` or `fix-bug-name`).
-3. **Make Changes**: Implement your changes, ensuring that you adhere to the coding standards of this project.
-4. **Commit Your Changes**: Write clear commit messages that explain your changes. 
-5. **Push Your Changes**: Push your changes to your forked repository.
-6. **Create a Pull Request**: Submit a pull request to the original repository, detailing the changes you have made and referencing any issues it addresses.
+## Security Practices
+- Always validate and sanitize input data to prevent security vulnerabilities.
+- Keep third-party dependencies up to date and do not use outdated libraries. Check regularly for security advisories related to your used dependencies.
+- Follow the principle of least privilege when making any API calls or file operations.
 
-## Code of Conduct
+## Pull Request Review Process
+1. **Create a Pull Request:** Once you've made your changes, create a pull request to the `main` branch with a descriptive title and a summary of the changes.
+2. **Review:** Your pull request will be reviewed by one of the project maintainers. The follow-up process may include feedback that requires changes or additional commits.
+3. **Approval and Merge:** Once your pull request has been approved, it will be merged into the main branch.
 
-We are committed to fostering a welcoming environment for all contributors. Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
+## Commit Message Format
+- Use the following format for your commit messages:
+  - **Type:** Brief type of change (feat, fix, docs, style, refactor, perf, test).
+  - **Scope:** The module or feature the change relates to (if applicable).
+  - **Subject:** A short description of the change.
+  
+### Example:
+```
+feat(user): add login functionality
+```
 
-## Security Requirements
-
-If you discover a security vulnerability, please report it by sending an email to security@poseidonhub.org. Do not disclose the vulnerability publicly until it has been addressed.
-
-## Development Setup Instructions
-
-To get started with developing for the Poseidon Hub, follow these instructions:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Killa207/automation-hub.git
-   cd automation-hub
-   ```
-
-2. **Install Dependencies**:
-   Navigate to the project directory and install any necessary dependencies. You may need to refer to the project's specific setup documentation, which can usually be found in a `README.md` file.
-
-3. **Set Up Environment**:
-   Depending on the project, you may need to set up environment variables or configuration files. Refer to the documentation for any specific instructions.
-
-4. **Run the Application**:
-   Follow the steps provided in the README to run the application locally and start contributing!
-
-Thank you for contributing to the Poseidon Hub! Your contributions are greatly appreciated.
+Thank you for considering contributing to Poseidon Hub! We look forward to your contributions!
